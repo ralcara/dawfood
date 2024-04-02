@@ -1,0 +1,38 @@
+Nombre,Categoria,Subcategoria
+Solomillo de cerdo,COMIDA,CARNE
+Secreto iberico,COMIDA,CARNE
+Pinchitos de pollo,COMIDA,CARNE
+Abadejo,COMIDA,PESCADO
+Calamares,COMIDA,PESCADO
+Gambas al pil pil,COMIDA,PESCADO
+Ensalada mixta,COMIDA,VERDURA
+Ensalada César,COMIDA,VERDURA
+Revuelto de espárragos,COMIDA,VERDURA
+Hamburguesa,COMIDA,CARNE
+Pizza,COMIDA,OTROS
+Sushi,COMIDA,PESCADO
+Paella,COMIDA,ARROZ
+Tacos,COMIDA,OTROS
+Sándwich de jamón y queso,COMIDA,BOCADILLO
+Fanta,BEBIDA,REFRESCO
+Coca-Cola,BEBIDA,REFRESCO
+Nesteá,BEBIDA,REFRESCO
+Cerveza,BEBIDA,ALCOHOLICA
+Vino tinto,BEBIDA,ALCOHOLICA
+Whisky,BEBIDA,ALCOHOLICA
+Zumo de piña,BEBIDA,ZUMO
+Zumo de melocotón,BEBIDA,ZUMO
+Zumo de naranja,BEBIDA,ZUMO
+Zumo de manzana,BEBIDA,ZUMO
+Agua con gas,BEBIDA,AGUA
+Agua sin gas,BEBIDA,AGUA
+Tarta de queso,POSTRE,
+Helado,POSTRE,
+Natillas,POSTRE,
+Arroz con leche,POSTRE,
+Tiramisú,POSTRE,
+Flan,POSTRE,
+Brownie,POSTRE,
+Mousse de chocolate,POSTRE,
+Crema catalana,POSTRE
+
